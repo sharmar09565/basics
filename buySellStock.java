@@ -18,7 +18,7 @@ public class buySellStock {
         }            
         System.out.println("Buying date: "+ buyDate);
         System.out.println("Selling date: "+ sellDate);
-        System.out.println(profit);
+        System.out.println(maxProfit);
         
 
     }
